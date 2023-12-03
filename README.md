@@ -9,5 +9,4 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=grandtimide&show_icons=true&locale=en&layout=compact" alt="grandtimide" />
-<img src="https://github-readme-stats.vercel.app/api?username=grandtimide&show_icons=true&count_private=true&theme=gruvbox" />
 </p>
