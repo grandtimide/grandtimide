@@ -7,4 +7,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=grandtimide&show_icons=true&locale=en&layout=compact" alt="grandtimide" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=grandtimide&show_icons=true&locale=en&layout=compact" alt="grandtimide" />
+</p>
